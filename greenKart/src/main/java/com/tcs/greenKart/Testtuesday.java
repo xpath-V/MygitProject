@@ -49,6 +49,9 @@ public class Testtuesday {
 	    String newName = new String(chars);
 	    System.out.println(chars.toString());
 	    System.out.println(newName);
+	    System.out.println("hello");
+	    System.out.println("helldsfgsxfo");
+
 
 
 	}
